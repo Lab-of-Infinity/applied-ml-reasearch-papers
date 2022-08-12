@@ -12,7 +12,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 
 P.S., Want a summary of ML advancements? 👉[`ml-surveys`](https://github.com/eugeneyan/ml-surveys)
 
-P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](https://applyingml.com)
+P.P.S, Looking for guides and interviews on applying ML? 👉 [`applyingML`](https://applyingml.com)
 
 **Table of Contents**
 
